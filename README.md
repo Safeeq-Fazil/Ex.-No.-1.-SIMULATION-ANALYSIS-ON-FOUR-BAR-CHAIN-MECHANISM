@@ -53,7 +53,7 @@
 
 
 ## Output:
-### Name:Safeeq Fazil A
+### Name: Safeeq Fazil A
 ### Register Number: 212222240086
 
 ![image](https://github.com/Safeeq-Fazil/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/118680361/fd724da5-3ff4-43bb-b817-4b23c0794b7c)
